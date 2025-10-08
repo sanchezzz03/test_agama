@@ -1,1 +1,18 @@
-{}
+{
+    "org-email": {
+        "projectName": "org-email",
+        "description": "projeto para refirecionar o login de acordo com o email do user",
+        "type": "community",
+        "author": "sanchezzz03",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/sanchezzz03/test_agama",
+        "githubUri": "https://github.com/sanchezzz03/test_agama",
+        "license": "apache-2.0",
+        "lastUpdated": "1759954800866",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
